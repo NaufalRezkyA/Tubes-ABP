@@ -28,7 +28,7 @@
                     </label>
                   </div>
                   <div class="d-grid">
-                    <button class="btn btn-info btn-login text-uppercase fw-bold" type="submit">Sign
+                    <button class="btn btn-info btn-login text-uppercase fw-bold" type="submit" >Sign
                       in</button>
                   </div>
                   <hr class="my-4">

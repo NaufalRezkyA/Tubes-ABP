@@ -38,6 +38,10 @@ Route::get('/post', function () {
     return view('post');
 });
 
+Route::get('/admin', function () {
+    return view('adminPage');
+});
+
 
 
 
